@@ -1,1 +1,1 @@
-# mathTeaching
+# Teaching
